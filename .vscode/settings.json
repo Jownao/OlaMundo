@@ -1,0 +1,7 @@
+{
+    // Is git enabled
+    "git.enabled": true,
+
+    // Path to the git executable
+    "git.path": "C:\\Users\\johnn\\AppData\\Local\\GitHubDesktop\\app-2.5.6\resources\\app\\git\\cmd"
+}
