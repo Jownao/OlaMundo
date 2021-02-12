@@ -1,0 +1,8 @@
+↓ ()
+↓ ** potência
+↓ +,-,/,* aritméticos
+↓ >,<,>=,<=,==,=== relacionais
+↓ !,&&,|| lógicos
+
+teste ? valor : valor   ternários
+
